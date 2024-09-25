@@ -7,7 +7,7 @@ function footer() {
         <div className="  mb-4">About Us
         <p className="pt-4 hover:text-white transition-colors duration-300 ">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Culpa voluptatum eos deleniti
              perspiciatis, et sequi eveniet assumenda vel illo esse ullam ipsum quasi ea dolor sit
-              itaque delectus nam soluta.</p></div>
+              itaque delectu nam soluta.</p></div>
               <div className="hover:text-white transition-colors duration-300 text-bold">Quick Link
         <p className="pt-4">Home</p>
         <p>About</p>
