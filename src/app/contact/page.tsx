@@ -32,7 +32,7 @@ function Page() {
               <polygon fill="#0a66c2" points="3 3 0 3 0 18 9 18 9 15 3 15"></polygon>
             </g>
           </svg> */}
-          <p className="text-3xl mt-12">Lest's Add in our Community &apos One step begin</p>
+          <p className="text-3xl mt-12">Lest&apos;s Add in our Community &apos One step begin</p>
           <div className="p-5 bg-white rounded-md w-96">
             <form className="space-y-4">
               <div className="space-y-0.5">
